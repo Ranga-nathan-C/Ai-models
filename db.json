@@ -6,81 +6,63 @@
 			"tryitout":"https://www.imagetotext.info/",
 			"title":"Image to text",
 			"desc":"An online image to text converter to extract text from images,Upload your photo to get text file instantly."
-		}
-	],
-  "models":[
+		},
 		{
 			"id":1,
 			"image":"ai5.jpg",
 			"tryitout":"https://speechnotes.co/dictate/",
 			"title":"Text to voice",
 			"desc":"Take notes with your voice for free, or automatically transcribe audio & video recordings. Secure, accurate & blazing fast."
-		}
-	],
-  "models":[
+		},
 		{
 			"id":2,
 			"image":"ai7.png",
 			"tryitout":"https://products.aspose.app/ocr/image-to-speech",
 			"title":"Image to voice",
 			"desc":"An image to voice conversion is the process of converting an image into an audio format"
-		}
-	],
-  "models":[
+		},
 		{
 			"id":3,
 			"image":"ai8.png",
 			"tryitout":"https://chatwithpdf.ai/",
 			"title":"Chatwithpdf",
 			"desc":"Summarise your documents, instantly answer questions, and understand research easily with AI"
-		}
-	],
-  "models":[
+		},
 		{
 			"id":4,
 			"image":"ai10.png",
 			"tryitout":"https://app.yoodli.ai/",
 			"title":"Yoodli ai",
 			"desc":"Improve your communication skills with private, real-time, and judgement free coaching — powered by AI. Like Grammarly, but for speech!"
-		}
-	],
-  "models":[
+		},
 		{
 			"id":5,
 			"image":"ai9.png",
 			"tryitout":"https://gamma.app",
 			"title":"Web-design Ai",
 			"desc":"It's a little quiet in here. Use Gamma to draft, craft, and publish your first website in minutes."
-		}
-	],
-  "models":[
+		},
 		{
 			"id":6,
 			"image":"ai11.webp",
 			"tryitout":"https://gemini.google.com/",
 			"title":" Gemini Google",
 			"desc":"Gemini, a large language model created by Google AI. I am trained on a massive dataset of text and code, which allows me to generate text."
-		}
-	],
-  "models":[
+		},
 		{
 			"id":7,
 			"image":"ai12.jpeg",
 			"tryitout":"https://debugcode.ai/",
 			"title":"Debugcode Ai",
 			"desc":"Debugcode.ai: The AI-Powered Tool That Can Debug Your Code in Seconds"
-		}
-	],
-  "models":[
+		},
 		{
 			"id":8,
 			"image":"ai14.",
 			"tryitout":"https://chat.openai.com/",
 			"title":"chatGpt",
 			"desc":"ChatGPT is a free-to-use AI system. Use it for engaging conversations, gain insights, automate tasks, and witness the future of AI, all in one place."
-		}
-	],
-  "models":[
+		},
 		{
 			"id":9,
 			"image":"ai13.jpg",
