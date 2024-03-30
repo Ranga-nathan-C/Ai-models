@@ -1,16 +1,96 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
-
-
+	"models":[
+		{
+			"id":0,
+			"image":"fotor-ai-20240329183256.jpg",
+			"tryitout":"https://www.imagetotext.info/",
+			"title":"Image to text",
+			"desc":"An online image to text converter to extract text from images,Upload your photo to get text file instantly."
+		}
+	],
+  "models":[
+		{
+			"id":1,
+			"image":"ai5.jpg",
+			"tryitout":"https://speechnotes.co/dictate/",
+			"title":"Text to voice",
+			"desc":"Take notes with your voice for free, or automatically transcribe audio & video recordings. Secure, accurate & blazing fast."
+		}
+	],
+  "models":[
+		{
+			"id":2,
+			"image":"ai7.png",
+			"tryitout":"https://products.aspose.app/ocr/image-to-speech",
+			"title":"Image to voice",
+			"desc":"An image to voice conversion is the process of converting an image into an audio format"
+		}
+	],
+  "models":[
+		{
+			"id":3,
+			"image":"ai8.png",
+			"tryitout":"https://chatwithpdf.ai/",
+			"title":"Chatwithpdf",
+			"desc":"Summarise your documents, instantly answer questions, and understand research easily with AI"
+		}
+	],
+  "models":[
+		{
+			"id":0,
+			"image":"images",
+			"tryitout":"link",
+			"title":"chatGpt",
+			"desc":"description"
+		}
+	],
+  "models":[
+		{
+			"id":0,
+			"image":"images",
+			"tryitout":"link",
+			"title":"chatGpt",
+			"desc":"description"
+		}
+	],
+  "models":[
+		{
+			"id":0,
+			"image":"images",
+			"tryitout":"link",
+			"title":"chatGpt",
+			"desc":"description"
+		}
+	],
+  "models":[
+		{
+			"id":0,
+			"image":"images",
+			"tryitout":"link",
+			"title":"chatGpt",
+			"desc":"description"
+		}
+	],
+  "models":[
+		{
+			"id":0,
+			"image":"images",
+			"tryitout":"link",
+			"title":"chatGpt",
+			"desc":"description"
+		}
+	],
+  "models":[
+		{
+			"id":0,
+			"image":"images",
+			"tryitout":"link",
+			"title":"chatGpt",
+			"desc":"description"
+		}
+	]
+}  
+  
+		
+	
+	
