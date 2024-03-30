@@ -2,70 +2,70 @@
 	"models":[
 		{
 			"id":0,
-			"image":"ai4.png",
+			"image":"https://www.folio3.ai/blog/wp-content/uploads/2022/06/5-ai-tools-for-image-to-text-conversion.jpg",
 			"tryitout":"https://www.imagetotext.info/",
 			"title":"Image to text",
 			"desc":"An online image to text converter to extract text from images,Upload your photo to get text file instantly."
 		},
 		{
 			"id":1,
-			"image":"ai5.jpg",
+			"image":"https://caknowledge.com/wp-content/uploads/2022/05/Text-to-Speech-Software.jpg",
 			"tryitout":"https://speechnotes.co/dictate/",
 			"title":"Text to voice",
 			"desc":"Take notes with your voice for free, or automatically transcribe audio & video recordings. Secure, accurate & blazing fast."
 		},
 		{
 			"id":2,
-			"image":"ai7.png",
+			"image":"https://media.graphassets.com/gefga92yQKiznukPbrOd",
 			"tryitout":"https://products.aspose.app/ocr/image-to-speech",
 			"title":"Image to voice",
 			"desc":"An image to voice conversion is the process of converting an image into an audio format"
 		},
 		{
 			"id":3,
-			"image":"ai8.png",
+			"image":"https://updf.com/wp-content/uploads/2023/07/pdf-ai-chat.png",
 			"tryitout":"https://chatwithpdf.ai/",
 			"title":"Chatwithpdf",
 			"desc":"Summarise your documents, instantly answer questions, and understand research easily with AI"
 		},
 		{
 			"id":4,
-			"image":"ai10.png",
+			"image":"https://ph-files.imgix.net/227a643b-651d-41e4-b73b-7ef17757ec53.png?auto=format&fit=crop&frame=1&h=512&w=1024",
 			"tryitout":"https://app.yoodli.ai/",
 			"title":"Yoodli ai",
 			"desc":"Improve your communication skills with private, real-time, and judgement free coaching — powered by AI. Like Grammarly, but for speech!"
 		},
 		{
 			"id":5,
-			"image":"ai9.png",
+			"image":"https://roboreachai.com/wp-content/uploads/2023/09/VS-min.png",
 			"tryitout":"https://gamma.app",
 			"title":"Web-design Ai",
 			"desc":"It's a little quiet in here. Use Gamma to draft, craft, and publish your first website in minutes."
 		},
 		{
 			"id":6,
-			"image":"ai11.webp",
+			"image":"https://www.silverf0x.com/wp-content/uploads/2023/12/gemini-google.jpg",
 			"tryitout":"https://gemini.google.com/",
 			"title":" Gemini Google",
 			"desc":"Gemini, a large language model created by Google AI. I am trained on a massive dataset of text and code, which allows me to generate text."
 		},
 		{
 			"id":7,
-			"image":"ai12.jpeg",
+			"image":"https://tse3.mm.bing.net/th?id=OIP.bGOcvsEh15IpK6lZ230OJQHaFA&pid=Api&P=0&h=180",
 			"tryitout":"https://debugcode.ai/",
 			"title":"Debugcode Ai",
 			"desc":"Debugcode.ai: The AI-Powered Tool That Can Debug Your Code in Seconds"
 		},
 		{
 			"id":8,
-			"image":"ai14.webp",
+			"image":"https://summalinguae.com/wp-content/uploads/2023/05/shutterstock_2261871805-scaled.jpg",
 			"tryitout":"https://chat.openai.com/",
 			"title":"chatGpt",
 			"desc":"ChatGPT is a free-to-use AI system. Use it for engaging conversations, gain insights, automate tasks, and witness the future of AI, all in one place."
 		},
 		{
 			"id":9,
-			"image":"ai13.jpg",
+			"image":"https://i.ytimg.com/vi/ia3dNhA_pGs/maxresdefault.jpg",
 			"tryitout":"https://www.perplexity.ai/",
 			"title":"Perplexity Ai",
 			"desc":"Perplexity AI unlocks the power of knowledge with information discovery and sharing.Upgrade for image upload,smarter AI, and more Pro Search"
