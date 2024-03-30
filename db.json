@@ -2,7 +2,7 @@
 	"models":[
 		{
 			"id":0,
-			"image":"fotor-ai-20240329183256.jpg",
+			"image":"ai4.png",
 			"tryitout":"https://www.imagetotext.info/",
 			"title":"Image to text",
 			"desc":"An online image to text converter to extract text from images,Upload your photo to get text file instantly."
@@ -37,56 +37,56 @@
 	],
   "models":[
 		{
-			"id":0,
-			"image":"images",
-			"tryitout":"link",
-			"title":"chatGpt",
-			"desc":"description"
+			"id":4,
+			"image":"ai10.png",
+			"tryitout":"https://app.yoodli.ai/",
+			"title":"Yoodli ai",
+			"desc":"Improve your communication skills with private, real-time, and judgement free coaching — powered by AI. Like Grammarly, but for speech!"
 		}
 	],
   "models":[
 		{
-			"id":0,
-			"image":"images",
-			"tryitout":"link",
-			"title":"chatGpt",
-			"desc":"description"
+			"id":5,
+			"image":"ai9.png",
+			"tryitout":"https://gamma.app",
+			"title":"Web-design Ai",
+			"desc":"It's a little quiet in here. Use Gamma to draft, craft, and publish your first website in minutes."
 		}
 	],
   "models":[
 		{
-			"id":0,
-			"image":"images",
-			"tryitout":"link",
-			"title":"chatGpt",
-			"desc":"description"
+			"id":6,
+			"image":"ai11.webp",
+			"tryitout":"https://gemini.google.com/",
+			"title":" Gemini Google",
+			"desc":"Gemini, a large language model created by Google AI. I am trained on a massive dataset of text and code, which allows me to generate text."
 		}
 	],
   "models":[
 		{
-			"id":0,
-			"image":"images",
-			"tryitout":"link",
-			"title":"chatGpt",
-			"desc":"description"
+			"id":7,
+			"image":"ai12.jpeg",
+			"tryitout":"https://debugcode.ai/",
+			"title":"Debugcode Ai",
+			"desc":"Debugcode.ai: The AI-Powered Tool That Can Debug Your Code in Seconds"
 		}
 	],
   "models":[
 		{
-			"id":0,
-			"image":"images",
-			"tryitout":"link",
+			"id":8,
+			"image":"ai14.",
+			"tryitout":"https://chat.openai.com/",
 			"title":"chatGpt",
-			"desc":"description"
+			"desc":"ChatGPT is a free-to-use AI system. Use it for engaging conversations, gain insights, automate tasks, and witness the future of AI, all in one place."
 		}
 	],
   "models":[
 		{
-			"id":0,
-			"image":"images",
-			"tryitout":"link",
-			"title":"chatGpt",
-			"desc":"description"
+			"id":9,
+			"image":"ai13.jpg",
+			"tryitout":"https://www.perplexity.ai/",
+			"title":"Perplexity Ai",
+			"desc":"Perplexity AI unlocks the power of knowledge with information discovery and sharing.Upgrade for image upload,smarter AI, and more Pro Search"
 		}
 	]
 }  
