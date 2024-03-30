@@ -5,7 +5,7 @@
 			"image":"https://www.folio3.ai/blog/wp-content/uploads/2022/06/5-ai-tools-for-image-to-text-conversion.jpg",
 			"tryitout":"https://www.imagetotext.info/",
 			"title":"Image to text",
-			"desc":"An online image to text converter to extract text from images,Upload your photo to get text file instantly."
+			"desc":"An online image to text converter to extract text from images & Upload your photo to get text file instantly with accurate infromation."
 		},
 		{
 			"id":1,
@@ -19,14 +19,14 @@
 			"image":"https://media.graphassets.com/gefga92yQKiznukPbrOd",
 			"tryitout":"https://products.aspose.app/ocr/image-to-speech",
 			"title":"Image to voice",
-			"desc":"An image to voice conversion is the process of converting an image into an audio format"
+			"desc":"An image to voice conversion is the process of converting an image into an audio format with the help of Artificial Intelligence"
 		},
 		{
 			"id":3,
 			"image":"https://updf.com/wp-content/uploads/2023/07/pdf-ai-chat.png",
 			"tryitout":"https://chatwithpdf.ai/",
 			"title":"Chatwithpdf",
-			"desc":"Summarise your documents, instantly answer questions, and understand research easily with AI"
+			"desc":"It will summarise your documents and instantly answers the questions, and understand research easily with the help of AI"
 		},
 		{
 			"id":4,
@@ -40,7 +40,7 @@
 			"image":"https://roboreachai.com/wp-content/uploads/2023/09/VS-min.png",
 			"tryitout":"https://gamma.app",
 			"title":"Web-design Ai",
-			"desc":"It's a little quiet in here. Use Gamma to draft, craft, and publish your first website in minutes."
+			"desc":"It's a little quiet in here. Use Gamma to draft, craft, design and publish your first website in minutes without writing even code."
 		},
 		{
 			"id":6,
@@ -54,7 +54,7 @@
 			"image":"https://tse3.mm.bing.net/th?id=OIP.bGOcvsEh15IpK6lZ230OJQHaFA&pid=Api&P=0&h=180",
 			"tryitout":"https://debugcode.ai/",
 			"title":"Debugcode Ai",
-			"desc":"Debugcode.ai: The AI-Powered Tool That Can Debug Your Code in Seconds"
+			"desc":" Debugcode.ai is a free online tool that uses OpenAI's GPT-3.5 model to debug and suggest improvements to your code in any programming language"
 		},
 		{
 			"id":8,
