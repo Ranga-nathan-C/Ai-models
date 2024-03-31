@@ -70,7 +70,13 @@
 			"title":"Perplexity Ai",
 			"desc":"Perplexity AI unlocks the power of knowledge with information discovery and sharing.Upgrade for image upload,smarter AI, and more Pro Search"
 		}
-	]
+	],
+        "users":[
+		{
+			"email": "ranga4@gmail.com",
+			"password":"1234"
+		}
+	]	
 }  
   
 		
